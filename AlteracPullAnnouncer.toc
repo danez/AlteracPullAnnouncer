@@ -1,4 +1,4 @@
 ## Interface: 11501
 ## Title: AlteracPullAnnouncer
-## Version: 1.0.0
+## Version: @project-version@
 AlteracPullAnnouncer.lua
