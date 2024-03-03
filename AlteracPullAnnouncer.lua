@@ -2,7 +2,7 @@ local start
 local isPulled = false
 
 local PULL_ACTION = ""
-local PULL_BODY = "-body"
+local PULL_BODY = "body-"
 
 local MELEE = "MELEE"
 
